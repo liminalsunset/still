@@ -6,18 +6,20 @@ function App() {
       <header className="App-header">
       </header>
       <section>
-
-                <p>Something here.</p>
-                <ul>
-                    <li>A thing.</li>
-                    <li>Another thing.</li>
-                    <li>Yet another.</li>
+        <p>Placeholder.</p>
+      </section>
+      <section>
+          <p>Something here.</p>
+              <ul>
+                  <li>A thing.</li>
+                  <li>Another thing.</li>
+                  <li>Yet another.</li>
                 </ul>
-            </section>
-            <section>
-                <p>.    .   .</p>
-                <p>Hi.</p>
-            </section>
+      </section>
+      <section>
+          <p>.    .   .</p>
+          <p>Hi.</p>
+      </section>
     </div>
   );
 }
